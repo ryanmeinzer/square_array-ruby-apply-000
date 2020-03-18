@@ -8,8 +8,6 @@ def square_array(array)
   squared_array
 end
 
-.to_i
-
 # Using a higher level iterator such as .map
 # def square_array(array)
 #   squared_array = []
